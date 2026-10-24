@@ -1,0 +1,80 @@
+{
+  "1527537837308772372": {
+    "channelId": "1527537837308772372",
+    "status": "closed",
+    "claimedBy": "1457424883645550815",
+    "createdAt": 1784263802100,
+    "guildId": "1524921266471964874",
+    "userId": "1457424883645550815",
+    "typeId": "wj1vln",
+    "typeLabel": "Revogação",
+    "number": 1,
+    "closedBy": "1457424883645550815",
+    "closedAt": 1784263830297
+  },
+  "1527542820166959224": {
+    "channelId": "1527542820166959224",
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": 1784264990163,
+    "guildId": "1524921266471964874",
+    "userId": "1457424883645550815",
+    "typeId": "a9fexb",
+    "typeLabel": "Tratativas Internas",
+    "number": 1,
+    "closedBy": "1457424883645550815",
+    "closedAt": 1784265008263
+  },
+  "1527542916996792421": {
+    "channelId": "1527542916996792421",
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": 1784265013192,
+    "guildId": "1524921266471964874",
+    "userId": "1457424883645550815",
+    "typeId": "wj1vln",
+    "typeLabel": "Revogação",
+    "number": 2,
+    "closedBy": "1457424883645550815",
+    "closedAt": 1784265040280
+  },
+  "1527546229414694975": {
+    "channelId": "1527546229414694975",
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": 1784265803094,
+    "guildId": "1524921266471964874",
+    "userId": "1358664275425624167",
+    "typeId": "u0zaj0",
+    "typeLabel": "Denúncias",
+    "number": 1,
+    "closedBy": "1358664275425624167",
+    "closedAt": 1784265869870
+  },
+  "1527560573519138899": {
+    "channelId": "1527560573519138899",
+    "status": "closed",
+    "claimedBy": null,
+    "createdAt": 1784269222823,
+    "guildId": "1524921266471964874",
+    "userId": "1527556876403871906",
+    "typeId": "a9fexb",
+    "typeLabel": "Tratativas Internas",
+    "number": 2,
+    "closedBy": "1457424883645550815",
+    "closedAt": 1784269247496
+  },
+  "1527659012642967765": {
+    "channelId": "1527659012642967765",
+    "status": "closed",
+    "claimedBy": "1507857314789724242",
+    "createdAt": 1784292692520,
+    "guildId": "1524921266471964874",
+    "userId": "1507857314789724242",
+    "typeId": "wj1vln",
+    "typeLabel": "Revogação",
+    "number": 3,
+    "closedBy": "1507857314789724242",
+    "closedAt": 1784292711422
+  }
+}

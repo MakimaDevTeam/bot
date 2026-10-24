@@ -1,0 +1,44 @@
+{
+  "1524921266471964874": {
+    "guildId": "1524921266471964874",
+    "levelChannel": "1524921727497273438",
+    "levelUpEnabled": true,
+    "welcomeChannel": null,
+    "logsChannel": null,
+    "ticketTypes": [
+      {
+        "id": "wj1vln",
+        "label": "Revogação",
+        "emoji": "🔐",
+        "categoryId": "1527406901980303522",
+        "categoryName": "╭──── ✦ EB | Ticket Armazem",
+        "supportRoleId": "1524921662158667877",
+        "supportRoleName": "🎖 | Oficias do Exército",
+        "counter": 3
+      },
+      {
+        "id": "a9fexb",
+        "label": "Tratativas Internas",
+        "emoji": "⚖️",
+        "categoryId": "1527406901980303522",
+        "categoryName": "╭──── ✦ EB | Ticket Armazem",
+        "supportRoleId": "1524921640801013821",
+        "supportRoleName": "「⚖️」Alto Escalão do Exército",
+        "counter": 2
+      },
+      {
+        "id": "u0zaj0",
+        "label": "Denúncias",
+        "emoji": "🚨",
+        "categoryId": "1527406901980303522",
+        "categoryName": "╭──── ✦ EB | Ticket Armazem",
+        "supportRoleId": "1524921662158667877",
+        "supportRoleName": "🎖 | Oficias do Exército",
+        "counter": 1
+      }
+    ],
+    "ticketPanelTitle": "Saudações!",
+    "ticketPanelDescription": "Caso precise de ajuda, esclarecer alguma dúvida ou resolver um problema, abra um ticket na categoria adequada. Nossa equipe analisará sua solicitação e prestará o suporte necessário.\n\nCategorias disponíveis:\n\n• 🔐 Revogação — Solicite a revisão ou remoção de uma punição aplicada.\n\n• ⚖️ Tratativas Internas — Para assuntos administrativos ou conflitos internos.\n\n• 🚨 Denúncias — Relate infrações às regras ou comportamentos inadequados.\n\nAo abrir um ticket, descreva sua situação com clareza e, se possível, envie provas ou evidências para agilizar a análise.",
+    "ticketWelcomeMessage": "{usuario} 📩 Ticket criado com sucesso!\n\nSua solicitação foi registrada e, em breve, um membro da equipe de suporte realizará o atendimento.\n\nEnquanto aguarda, evite marcar a equipe repetidamente ou enviar diversas mensagens desnecessárias, pois isso não acelera o atendimento. Caso seja necessário, envie informações complementares e anexos que possam ajudar na análise do seu caso.\n\nAgradecemos pela paciência e compreensão. Nossa equipe responderá assim que possível."
+  }
+}
